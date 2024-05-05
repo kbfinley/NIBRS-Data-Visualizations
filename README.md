@@ -2,7 +2,7 @@
 # National Incident-Based Reporting System Data: 
 https://www.icpsr.umich.edu/web/NACJD/series/128
 ---------
-# VisBlog Post 
+# VisBlog Post: 
 https://sites.google.com/view/nibrsblogpost/blog
 ---------
 - Compiled raw NIBRS data into Excel spreadsheets for streamlined analysis and visualization in Tableau.
