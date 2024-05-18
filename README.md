@@ -1,4 +1,4 @@
-# NIBRS Data Viz 👮🏾
+# NIBRS Data Visualizations 👮🏾
 https://public.tableau.com/views/NIBRSDataVizProject/Storyboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 ---------
 - Compiled raw NIBRS data into Excel spreadsheets for streamlined analysis and visualization in Tableau.
