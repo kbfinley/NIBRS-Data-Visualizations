@@ -2,8 +2,8 @@
 # National Incident-Based Reporting System Data: 
 https://www.icpsr.umich.edu/web/NACJD/series/128
 ---------
-# VisBlog Post: 
-https://sites.google.com/view/nibrsblogpost/blog
+# NIBRS Data Viz Project: 
+https://public.tableau.com/views/NIBRSDataVizProject/Storyboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 ---------
 - Compiled raw NIBRS data into Excel spreadsheets for streamlined analysis and visualization in Tableau.
 - Implemented data cleaning and validation procedures in Excel to ensure the accuracy and integrity of NIBRS datasets before Tableau integration.
